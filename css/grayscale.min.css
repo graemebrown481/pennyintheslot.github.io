@@ -217,7 +217,7 @@ a:focus, a:hover {
 	width: 100%;
 	padding: 50px 0;
 	color: #fff;
-	background: url(../img/blog-bg.jpg) center center no-repeat #000;
+	background: url(../img/blog-bg.png) center center no-repeat #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
