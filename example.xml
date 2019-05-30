@@ -1,21 +1,28 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-  <channel>
-    <title>Contract Scotland</title>
-    <link>https://www.contractscotland.co.uk/</link>
-    <description/>
-    <language>en</language>
-    <copyright>Copyright 2019 Contract Scotland Ltd</copyright>
-    <pubDate>30 May 2019 00:30:03 +0100</pubDate>
-    <lastBuildDate>30 May 2019 00:30:03 +0100</lastBuildDate>
-    <ttl>60</ttl>
+<channel>
+<title>Contract Scotland</title>
+<link>https://www.contractscotland.co.uk/</link>
+<description/>
+<language>en</language>
+<copyright>Copyright 2019 Contract Scotland Ltd</copyright>
+<pubDate>30 May 2019 00:30:03 +0100</pubDate>
+<lastBuildDate>30 May 2019 00:30:03 +0100</lastBuildDate>
+<ttl>60</ttl>
 <item xmlns:default="http://purl.org/rss/1.0/modules/content/" xmlns:default1="http://search.yahoo.com/mrss/">
-      <title>Customer Care Coordinator</title>
-      <link>https://www.contractscotland.co.uk/job-vacancies/customer-care-coordinator-nvej17177/</link>
-      <description>Description placementholder</description>
-      <content:encoded xmlns="http://purl.org/rss/1.0/modules/content/"><p>Contract Scotland currently have a great opportunity for a Customer Care Coordinator to join a repeatable housing developer based in South Lanarkshire.</p></br></content:encoded>
-      <guid isPermaLink="true">https://www.contractscotland.co.uk/job-vacancies/customer-care-coordinator-nvej17177/</guid>
-      <pubDate>30 May 2019 00:30:03 +0100</pubDate>
-    </item>
-  </channel>
+<title>Customer Care Coordinator</title>
+<link>
+https://www.contractscotland.co.uk/job-vacancies/customer-care-coordinator-nvej17177/
+</link>
+<description>
+Contract Scotland currently have a great opportunity for a Customer Care Coordinator to join a repeatable housing developer based in South Lanarkshire.
+</description>
+<content:encoded xmlns="http://purl.org/rss/1.0/modules/content/">
+Contract Scotland currently have a great opportunity for a Customer Care Coordinator to join a repeatable housing developer based in South Lanarkshire.
+</content:encoded>
+<guid isPermaLink="true">
+https://www.contractscotland.co.uk/job-vacancies/customer-care-coordinator-nvej17177/
+</guid>
+<pubDate>30 May 2019 00:30:03 +0100</pubDate>
+</item>
+</channel>
 </rss>
