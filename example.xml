@@ -11,9 +11,9 @@
     <ttl>60</ttl>
 <item xmlns:default="http://purl.org/rss/1.0/modules/content/" xmlns:default1="http://search.yahoo.com/mrss/">
       <title>Example Job Title</title>
-      <link></link>
-      <description>Example job description</description>
-      <content:encoded xmlns="http://purl.org/rss/1.0/modules/content/">Example job description</content:encoded>
+      <link>https://www.contractscotland.co.uk/job-vacancies/customer-care-coordinator-nvej17177/</link>
+      <description>Customer Care Coordinator</description>
+      <content:encoded xmlns="http://purl.org/rss/1.0/modules/content/">Contract Scotland currently have a great opportunity for a Customer Care Coordinator to join a repeatable housing developer based in South Lanarkshire.</content:encoded>
       <guid isPermaLink="true"></guid>
       <pubDate>30 May 2019 00:30:03 +0100</pubDate>
       <enclosure url="" type="" length=""/>
